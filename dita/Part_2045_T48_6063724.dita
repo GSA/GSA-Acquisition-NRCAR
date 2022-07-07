@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_2045_T48_6063724">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 2045</ph> - GOVERNMENT PROPERTY</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           42 U.S.C. 2201; 42 U.S.C. 5841; 41 U.S.C. 418(b).
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           64 FR 49337, Sept. 10, 1999, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_2045_3_T48_60637241.dita#Subpart_2045_3_T48_60637241">Subpart 2045.3 - Providing Government Property to Contractors</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2045_370_T48_6063724111.dita#Section_2045_370_T48_6063724111">2045.370 Providing Government property (in general).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_2045_371_T48_6063724112.dita#Section_2045_371_T48_6063724112">2045.371 Property accountability procedures.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
